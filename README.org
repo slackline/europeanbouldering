@@ -37,5 +37,5 @@ POIs were converted to GPX and these in turn converted to GeoJSON using [[https:
 
 Incorporate as many areas (including climbing) as possible...
 
-[[http://climbinspain.com/maps/][Climb in Spain Map]]
-[[http://www.activeazur.com/rock-climbing/south-france][South France]]
+- [[http://climbinspain.com/maps/][Climb in Spain Map]]
+- [[http://www.activeazur.com/rock-climbing/south-france][South France]]
