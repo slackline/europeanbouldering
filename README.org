@@ -6,6 +6,7 @@ A list of bouldering areas around Europe in CSV and GeoJSON format.
 
 [[https://github.com/slackline/europeanbouldering/tree/master/climbing-bouldering.geojson][View the map by clicking here.]]
 
+Artificial boulders in Sheffield can be viewed [[https://github.com/slackline/europeanbouldering/tree/master/sheffield-boulders.geojson][here]] and are documented [[http://sheffieldboulder.uk/][here]].
 
 * Acknowledgements
 

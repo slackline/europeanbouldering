@@ -1,0 +1,213 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Heeley Boulder (Original)",
+                "desc": "The original Heeley Boulder (and the best!).http://sheffieldboulder.nfshost.com/doku.php?id=heeley:original",
+                "sym": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.471382,
+                    53.360865,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Heeley Boulder (Sheaf)",
+                "desc": "A newer (steeper and harder) boulder has been built here (Google Maps hasn't been updated yet).http://sheffieldboulder.nfshost.com/doku.php?id=heeley:sheaf",
+                "sym": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.470808,
+                    53.361735,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "St Mary's Boulder",
+                "desc": "A small artificial boulder in the grounds of St Mary's Church.  Mainly geared towards kids.http://sheffieldboulder.nfshost.com/doku.php?id=st_marys:st_marys",
+                "sym": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.471413,
+                    53.372082,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Cemetery Boulder",
+                "desc": "Second best artificial boulder in Sheffield?Certainly the main face is generally harder the the original Heeley Boulder.http://sheffieldboulder.nfshost.com/doku.php?id=cemetry:cemetery",
+                "sym": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.484061,
+                    53.370094,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Ponderossa Boulder",
+                "desc": "Not extensive, but ok for traversing. Be wary of broken glass and dog-poo on holds here.http://sheffieldboulder.nfshost.com/doku.php?id=ponderosa:ponderosa",
+                "sym": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.490581,
+                    53.385183,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Darnall Boulder",
+                "desc": "Interesting problems on the steep side, quite slippery with the paint thats been used on it.(Not currently visible on overhead map view, but you can see it on Streetview).http://sheffieldboulder.nfshost.com/doku.php?id=darnall:darnall",
+                "sym": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.421974,
+                    53.39094,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Osgathorpe Park, Fir Vale",
+                "desc": "Apparently a boulder in here (picture here (http://www.flickr.com/photos/mjjtlee/3662824090/)).http://sheffieldboulder.nfshost.com/doku.php?id=osgathorpe:osgathorpe",
+                "sym": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.452545,
+                    53.403884,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Green Oaks Park Boulders",
+                "desc": "A collection of three boulders in Totley.http://sheffieldboulder.nfshost.com/doku.php?id=green_oaks:green_oaks",
+                "sym": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.531185,
+                    53.313758,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Richmond Park Boulder",
+                "desc": "A fairly large boulder.http://sheffieldboulder.nfshost.com/doku.php?id=richmond:richmond",
+                "sym": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.405048,
+                    53.358789,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Endcliffe Park",
+                "desc": "Small boulders for small people.http://sheffieldboulder.nfshost.com/doku.php?id=endcliffe:endcliffe",
+                "sym": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.505942,
+                    53.368671,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Langsett Cresecent Park Boulder",
+                "desc": "http://sheffieldboulder.nfshost.com/doku.php?id=langsett:langsett",
+                "sym": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.49421,
+                    53.396864,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Queen Mary Road Park Boulders",
+                "desc": "http://sheffieldboulder.nfshost.com/doku.php?id=queen_mary:queen_mary",
+                "sym": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.430116,
+                    53.367346,
+                    0
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Broomgrove Road Wall",
+                "desc": "A featured gristone block wall that has been used as a training venue for some time, useful as its covered and stays dry in the rain.",
+                "sym": ""
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.4933628,
+                    53.3741604,
+                    0
+                ]
+            }
+        }
+    ]
+}
