@@ -4,7 +4,7 @@
 
 A list of bouldering areas around Europe in CSV and GeoJSON format.
 
-[[https://github.com/slackline/boulderingareas/tree/master/boulderingareas.geojson][View the map by clicking here.]]
+[[https://github.com/slackline/europeanbouldering/tree/master/boulderingareas.geojson][View the map by clicking here.]]
 
 
 * Acknowledgements
