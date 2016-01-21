@@ -29,13 +29,23 @@ Compiled various POIs for [[http://ukbouldering.com/board/index.php/topic,13442.
 Compiled POIs for [[http://ukbouldering.com/board/index.php/topic,26390.0.html][North Yorkshire Moors]].
 
 
+* Conversion
 
-POIs were converted to GPX and these in turn converted to GeoJSON using [[https://mapbox.github.io/togeojson/][toGeoJSON]]
+POIs were converted to GPX and these in turn converted to GeoJSON using [[https://mapbox.github.io/togeojson/][toGeoJSON]].  A useful site for converting GeoJSON to CSV to facilitate editing is [[http://www.convertcsv.com/geojson-to-csv.htm][here]] and it will 
+also convert them from CSV to GeoJSON [[http://www.convertcsv.com/csv-to-geojson.htm][here]].
 
 
 * ToDo
 
 Incorporate as many areas (including climbing) as possible...
 
+** Maps
+
 - [[http://climbinspain.com/maps/][Climb in Spain Map]]
 - [[http://www.activeazur.com/rock-climbing/south-france][South France]]
+
+** Information and Data
+
+- Bulk out all fields for all locations.
+- Colour code markers based on rock type.
+- Include indoor climbing walls.
