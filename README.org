@@ -12,7 +12,7 @@ Artificial boulders in Sheffield can be viewed [[https://github.com/slackline/eu
 
 ** Carl Lange
 
-This collection is inspired by and uses the structure/code of [[https://github.com/CarlQLange/][Carl Lange]] who produced [[https://github.com/CarlQLange/boulderingareas][Bouldering Areas in Ireland and Northern Ireland]].
+This collection is inspired by and builds on the structure/code of [[https://github.com/CarlQLange/][Carl Lange]] who produced [[https://github.com/CarlQLange/boulderingareas][Bouldering Areas in Ireland and Northern Ireland]].
 
 ** Jim Hillard
 
