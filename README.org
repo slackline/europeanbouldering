@@ -34,8 +34,7 @@ Compiled POIs for [[http://ukbouldering.com/board/index.php/topic,26390.0.html][
 Various formats needed converting...
 
 - POIs were converted to GPX and these in turn converted to GeoJSON using [[https://mapbox.github.io/togeojson/][toGeoJSON]].  
-- A useful site for converting GeoJSON to CSV to facilitate editing is [[http://www.convertcsv.com/geojson-to-csv.htm][here]] (it will 
-also convert them from CSV to GeoJSON [[http://www.convertcsv.com/csv-to-geojson.htm][here]].
+- A useful site for converting GeoJSON to CSV to facilitate editing is [[http://www.convertcsv.com/geojson-to-csv.htm][here]] (it will also convert them from CSV to GeoJSON [[http://www.convertcsv.com/csv-to-geojson.htm][here]]).
 - [[https://www.ordnancesurvey.co.uk/][Ordnance Survey]] grid references in the UK can be converted to latitude and longitude using [[http://www.nearby.org.uk/][nearby.org.uk]].
 
 
