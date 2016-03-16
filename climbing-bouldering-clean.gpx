@@ -1,0 +1,1426 @@
+<?xml version="1.0" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="KML2GPX.COM" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <name>Climbing & Bouldering</name>
+    <desc>Climbing & Bouldering venues</desc>
+  </metadata>
+  <wpt lat="48.35703" lon="2.54381">
+    <name>Vandal</name>
+    <desc>This is waypoint no: 1</desc>
+  </wpt>
+  <wpt lat="48.33017" lon="2.37291">
+    <name>Boigneville</name>
+    <desc>This is waypoint no: 2</desc>
+    </wpt>
+  <wpt lat="48.40129" lon="2.54675">
+    <name>Conquibus auvergne</name>
+    <desc>This is waypoint no: 3</desc>
+    </wpt>
+  <wpt lat="48.30739" lon="2.42012">
+    <name>Villetard</name>
+    <desc>This is waypoint no: 4</desc>
+    </wpt>
+  <wpt lat="48.25262" lon="2.69198">
+    <name>Le Belvedere</name>
+    <desc>This is waypoint no: 5</desc>
+    </wpt>
+  <wpt lat="48.25499" lon="2.72005">
+    <name>Les Mammouths</name>
+    <desc>This is waypoint no: 6</desc>
+    </wpt>
+  <wpt lat="48.26529" lon="2.64227">
+    <name>Roche du Paradis</name>
+    <desc>This is waypoint no: 7</desc>
+    </wpt>
+  <wpt lat="48.29769" lon="2.59858">
+    <name>Mont Simonet</name>
+    <desc>This is waypoint no: 8</desc>
+    </wpt>
+  <wpt lat="48.26681" lon="2.65173">
+    <name>Mont Sarrazin</name>
+    <desc>This is waypoint no: 9</desc>
+    </wpt>
+  <wpt lat="48.35583" lon="2.7614300000000003">
+    <name>Marion des Roches</name>
+    <desc>This is waypoint no: 10</desc>
+    </wpt>
+  <wpt lat="48.37273" lon="2.75026">
+    <name>Rocher des Princes</name>
+    <desc>This is waypoint no: 11</desc>
+    </wpt>
+  <wpt lat="48.37857" lon="2.68373">
+    <name>Rocher des Demoiselles</name>
+    <desc>This is waypoint no: 12</desc>
+    </wpt>
+  <wpt lat="48.38099" lon="2.65685">
+    <name>Rocher du mauvais passage</name>
+    <desc>This is waypoint no: 13</desc>
+    </wpt>
+  <wpt lat="48.38765" lon="2.6683">
+    <name>Rocher de la Salamandre (Est)</name>
+    <desc>This is waypoint no: 14</desc>
+    </wpt>
+  <wpt lat="48.39373" lon="2.6295">
+    <name>Rocher de la Salamandre</name>
+    <desc>This is waypoint no: 15</desc>
+    </wpt>
+  <wpt lat="48.43941" lon="2.69">
+    <name>Rocher du Cassepot</name>
+    <desc>This is waypoint no: 16</desc>
+    </wpt>
+  <wpt lat="48.44594" lon="2.63732">
+    <name>cuvier-rempart</name>
+    <desc>This is waypoint no: 17</desc>
+    </wpt>
+  <wpt lat="48.45739" lon="2.6693">
+    <name>Rocher Canon</name>
+    <desc>This is waypoint no: 18</desc>
+    </wpt>
+  <wpt lat="48.44138" lon="2.66872">
+    <name>Rocher Saint Germain</name>
+    <desc>This is waypoint no: 19</desc>
+    </wpt>
+  <wpt lat="48.44138" lon="2.66872">
+    <name>La Mare a Piat</name>
+    <desc>This is waypoint no: 20</desc>
+    </wpt>
+  <wpt lat="48.42135" lon="2.69899">
+    <name>Mont Ussy</name>
+    <desc>This is waypoint no: 21</desc>
+    </wpt>
+  <wpt lat="48.39373" lon="2.6295">
+    <name>Franchard Occidentale</name>
+    <desc>This is waypoint no: 22</desc>
+    </wpt>
+  <wpt lat="48.42037" lon="2.71514">
+    <name>Calvaire</name>
+    <desc>This is waypoint no: 23</desc>
+    </wpt>
+  <wpt lat="48.40916" lon="2.63849">
+    <name>Franchard Raymond</name>
+    <desc>This is waypoint no: 24</desc>
+    </wpt>
+  <wpt lat="48.4043" lon="2.63849">
+    <name>Gorge du Houx</name>
+    <desc>This is waypoint no: 25</desc>
+    </wpt>
+  <wpt lat="48.41324" lon="2.60877">
+    <name>Franchard Cuisiniere, Pascal Meyer et Ermitage</name>
+    <desc>This is waypoint no: 26</desc>
+    </wpt>
+  <wpt lat="48.41148" lon="2.59781">
+    <name>Franchard Isatis, Hautes-Plaines et Sablons</name>
+    <desc>This is waypoint no: 27</desc>
+    </wpt>
+  <wpt lat="48.38099" lon="2.65685">
+    <name>Rocher du Mauvais Passage</name>
+    <desc>This is waypoint no: 28</desc>
+    </wpt>
+  <wpt lat="48.39616" lon="2.72337">
+    <name>Rocher d`Avon</name>
+    <desc>This is waypoint no: 29</desc>
+    </wpt>
+  <wpt lat="48.38680000000001" lon="2.68912">
+    <name>Rochers de Bouligny</name>
+    <desc>This is waypoint no: 30</desc>
+    </wpt>
+  <wpt lat="48.38765" lon="2.6683">
+    <name>Occidentale Est</name>
+    <desc>This is waypoint no: 31</desc>
+    </wpt>
+  <wpt lat="48.35292" lon="2.72111">
+    <name>Restant du long Rocher</name>
+    <desc>This is waypoint no: 32</desc>
+    </wpt>
+  <wpt lat="48.40538" lon="2.67688">
+    <name>Mont Aigu</name>
+    <desc>This is waypoint no: 33</desc>
+    </wpt>
+  <wpt lat="48.30263" lon="2.59937">
+    <name>Maunoury</name>
+    <desc>This is waypoint no: 34</desc>
+    </wpt>
+  <wpt lat="48.33256" lon="2.66459">
+    <name>Recloses</name>
+    <desc>This is waypoint no: 35</desc>
+    </wpt>
+  <wpt lat="48.29315" lon="2.59768">
+    <name>L`Elephant</name>
+    <desc>This is waypoint no: 36</desc>
+    </wpt>
+  <wpt lat="48.30263" lon="2.59937">
+    <name>Dame Jouanne</name>
+    <desc>This is waypoint no: 37</desc>
+    </wpt>
+  <wpt lat="48.26436" lon="2.67155">
+    <name>Petit Bois</name>
+    <desc>This is waypoint no: 38</desc>
+    </wpt>
+  <wpt lat="48.29442" lon="2.42957">
+    <name>Buthiers - Canard</name>
+    <desc>This is waypoint no: 39</desc>
+    </wpt>
+  <wpt lat="48.26323" lon="2.6857">
+    <name>Rocher Greau</name>
+    <desc>This is waypoint no: 40</desc>
+    </wpt>
+  <wpt lat="48.29442" lon="2.42957">
+    <name>Buthiers - Canard and tennis</name>
+    <desc>This is waypoint no: 41</desc>
+    </wpt>
+  <wpt lat="48.33197" lon="2.50209">
+    <name>Boissy-aux-Cailles - Les Nombrilistes</name>
+    <desc>This is waypoint no: 42</desc>
+    </wpt>
+  <wpt lat="48.31761000000001" lon="2.50954">
+    <name>Boissy-aux-Cailles - L`Eglise</name>
+    <desc>This is waypoint no: 43</desc>
+    </wpt>
+  <wpt lat="48.30965" lon="2.5091">
+    <name>Boissy-aux-Cailles - Marlanval</name>
+    <desc>This is waypoint no: 44</desc>
+    </wpt>
+  <wpt lat="48.36287" lon="2.52585">
+    <name>Potala</name>
+    <desc>This is waypoint no: 45</desc>
+    </wpt>
+  <wpt lat="48.36272" lon="2.52585">
+    <name>Rocher Guichot, du general et Rocher Fin</name>
+    <desc>This is waypoint no: 46</desc>
+    </wpt>
+  <wpt lat="48.35926" lon="2.53465">
+    <name>J.A. Martin</name>
+    <desc>This is waypoint no: 47</desc>
+    </wpt>
+  <wpt lat="48.36272" lon="2.52585">
+    <name>Rocher Guichot</name>
+    <desc>This is waypoint no: 48</desc>
+    </wpt>
+  <wpt lat="48.38753" lon="2.51972">
+    <name>95.2</name>
+    <desc>This is waypoint no: 49</desc>
+    </wpt>
+  <wpt lat="48.38774" lon="2.51959">
+    <name>Gros Sablons</name>
+    <desc>This is waypoint no: 50</desc>
+    </wpt>
+  <wpt lat="48.37284" lon="2.50961">
+    <name>Roche aux Oisseaux</name>
+    <desc>This is waypoint no: 51</desc>
+    </wpt>
+  <wpt lat="48.37250000000001" lon="2.5103">
+    <name>Cul de Chien</name>
+    <desc>This is waypoint no: 52</desc>
+    </wpt>
+  <wpt lat="48.37289" lon="2.50894">
+    <name>Mont pivot</name>
+    <desc>This is waypoint no: 53</desc>
+    </wpt>
+  <wpt lat="48.39942" lon="2.5659">
+    <name>Rocher de Cornebiche et Milly</name>
+    <desc>This is waypoint no: 54</desc>
+    </wpt>
+  <wpt lat="48.37048" lon="2.56171">
+    <name>Beorlots</name>
+    <desc>This is waypoint no: 55</desc>
+    </wpt>
+  <wpt lat="48.37250000000001" lon="2.5103">
+    <name>Roche aux Sabots</name>
+    <desc>This is waypoint no: 56</desc>
+    </wpt>
+  <wpt lat="48.39101" lon="2.55787">
+    <name>Bois Rond</name>
+    <desc>This is waypoint no: 57</desc>
+    </wpt>
+  <wpt lat="48.3927" lon="2.55583">
+    <name>Drei Zinnen</name>
+    <desc>This is waypoint no: 58</desc>
+    </wpt>
+  <wpt lat="48.39484" lon="2.5563900000000004">
+    <name>P`tit Reine</name>
+    <desc>This is waypoint no: 59</desc>
+    </wpt>
+  <wpt lat="48.39048" lon="2.55279">
+    <name>La Canche aux Merciers</name>
+    <desc>This is waypoint no: 60</desc>
+    </wpt>
+  <wpt lat="48.4293" lon="2.50975">
+    <name>Conquibus Montrouget</name>
+    <desc>This is waypoint no: 61</desc>
+    </wpt>
+  <wpt lat="48.41251" lon="2.47724">
+    <name>Conquibus Gorge a Veron et Longs Vaux</name>
+    <desc>This is waypoint no: 62</desc>
+    </wpt>
+  <wpt lat="48.40547" lon="2.50876">
+    <name>Conquibus Rumont</name>
+    <desc>This is waypoint no: 63</desc>
+    </wpt>
+  <wpt lat="48.39956" lon="2.51663">
+    <name>Gorge aux Chats</name>
+    <desc>This is waypoint no: 64</desc>
+    </wpt>
+  <wpt lat="48.50155" lon="2.48283">
+    <name>Beauvais Est</name>
+    <desc>This is waypoint no: 65</desc>
+    </wpt>
+  <wpt lat="48.4776" lon="2.46699">
+    <name>La Padole</name>
+    <desc>This is waypoint no: 66</desc>
+    </wpt>
+  <wpt lat="48.46403" lon="2.43633">
+    <name>Bidelles les Roches</name>
+    <desc>This is waypoint no: 67</desc>
+    </wpt>
+  <wpt lat="48.5026" lon="2.46846">
+    <desc>This is waypoint no: 68</desc>
+    </wpt>
+  <wpt lat="48.50355" lon="2.48082">
+    <name>Beauvais Nainville</name>
+    <desc>This is waypoint no: 69</desc>
+    </wpt>
+  <wpt lat="48.44068" lon="2.62455">
+    <name>Apremont</name>
+    <desc>This is waypoint no: 70</desc>
+    </wpt>
+  <wpt lat="48.44594" lon="2.63732">
+    <name>Bas Cuvier</name>
+    <desc>This is waypoint no: 71</desc>
+    </wpt>
+  <wpt lat="46.592" lon="8.56138">
+    <name>Gottardo - mushroom tunnel</name>
+    <desc>This is waypoint no: 72</desc>
+    </wpt>
+  <wpt lat="46.58166" lon="8.55899">
+    <name>Gottardo - Shark, suworow and autogrill</name>
+    <desc>This is waypoint no: 73</desc>
+    </wpt>
+  <wpt lat="46.56313" lon="8.55125">
+    <name>Gottardo - Bunker</name>
+    <desc>This is waypoint no: 74</desc>
+    </wpt>
+  <wpt lat="46.5645" lon="8.56074">
+    <name>Gottardo - Parking</name>
+    <desc>This is waypoint no: 75</desc>
+    </wpt>
+  <wpt lat="46.56036" lon="8.55857">
+    <name>Gottardo - Il Cecchino</name>
+    <desc>This is waypoint no: 76</desc>
+    </wpt>
+  <wpt lat="46.56205" lon="8.55223">
+    <name>Gottardo - Ecstasy, scary christmas and dark side</name>
+    <desc>This is waypoint no: 77</desc>
+    </wpt>
+  <wpt lat="46.55978" lon="8.56086">
+    <name>Gottardo - Conca</name>
+    <desc>This is waypoint no: 78</desc>
+    </wpt>
+  <wpt lat="46.55609" lon="8.57173">
+    <name>Gottardo - Ospizio</name>
+    <desc>This is waypoint no: 79</desc>
+    </wpt>
+  <wpt lat="46.5579" lon="8.56541">
+    <name>Gottardo - Loch Ness</name>
+    <desc>This is waypoint no: 80</desc>
+    </wpt>
+  <wpt lat="46.29233" lon="8.792850000000001">
+    <name>Brione</name>
+    <desc>This is waypoint no: 81</desc>
+    </wpt>
+  <wpt lat="46.39423" lon="8.53772">
+    <name>Sonlerto</name>
+    <desc>This is waypoint no: 82</desc>
+    </wpt>
+  <wpt lat="46.16194" lon="9.59429">
+    <name>Dazio</name>
+    <desc>This is waypoint no: 83</desc>
+    </wpt>
+  <wpt lat="46.21751" lon="9.86563">
+    <name>Spriana</name>
+    <desc>This is waypoint no: 84</desc>
+    </wpt>
+  <wpt lat="46.3719" lon="9.35937">
+    <name>Cimaganda</name>
+    <desc>This is waypoint no: 85</desc>
+    </wpt>
+  <wpt lat="46.15088000000001" lon="9.5775">
+    <name>Selvapiana</name>
+    <desc>This is waypoint no: 86</desc>
+    </wpt>
+  <wpt lat="46.15694" lon="7.03011">
+    <name>La Balmaz</name>
+    <desc>This is waypoint no: 87</desc>
+    </wpt>
+  <wpt lat="46.73397" lon="8.42363">
+    <name>Steingletscher</name>
+    <desc>This is waypoint no: 88</desc>
+    </wpt>
+  <wpt lat="46.69226" lon="7.6452800000000005">
+    <name>Spiez - Fuxenstein</name>
+    <desc>This is waypoint no: 89</desc>
+    </wpt>
+  <wpt lat="47.7446" lon="8.69122">
+    <name>Kesslerloch</name>
+    <desc>This is waypoint no: 90</desc>
+    </wpt>
+  <wpt lat="46.74378" lon="8.50808">
+    <name>Sustenpass</name>
+    <desc>This is waypoint no: 91</desc>
+    </wpt>
+  <wpt lat="46.42312" lon="8.84748">
+    <name>Chironico</name>
+    <desc>This is waypoint no: 92</desc>
+    </wpt>
+  <wpt lat="46.28085" lon="9.00527">
+    <name>Cresciano</name>
+    <desc>This is waypoint no: 93</desc>
+    </wpt>
+  <wpt lat="46.55792" lon="9.43967">
+    <name>Magic wood</name>
+    <desc>This is waypoint no: 94</desc>
+    </wpt>
+  <wpt lat="54.42941" lon="-2.83917">
+    <name>Kentmere</name>
+    <desc>This is waypoint no: 95</desc>
+    </wpt>
+  <wpt lat="54.50638" lon="-2.76566">
+    <name>Gouther crag</name>
+    <desc>This is waypoint no: 96</desc>
+    </wpt>
+  <wpt lat="54.44116" lon="-3.05628">
+    <name>Langdale Boulders</name>
+    <desc>This is waypoint no: 97</desc>
+    </wpt>
+  <wpt lat="54.69861" lon="-3.00536">
+    <name>Carrock Fell</name>
+    <desc>This is waypoint no: 98</desc>
+    </wpt>
+  <wpt lat="54.53596" lon="-3.1539800000000002">
+    <name>Bowderstone</name>
+    <desc>This is waypoint no: 99</desc>
+    </wpt>
+  <wpt lat="54.51606" lon="-3.6263100000000006">
+    <name>St Bees</name>
+    <desc>This is waypoint no: 100</desc>
+    </wpt>
+  <wpt lat="53.6048" lon="-1.9115500000000003">
+    <name>Shooter's Nab</name>
+    <desc>This is waypoint no: 101</desc>
+    </wpt>
+  <wpt lat="53.59283" lon="-1.9574300000000002">
+    <name>Pule Hill</name>
+    <desc>This is waypoint no: 102</desc>
+    </wpt>
+  <wpt lat="53.65718" lon="-2.0499000000000005">
+    <name>Blackstone Edge</name>
+    <desc>This is waypoint no: 103</desc>
+    </wpt>
+  <wpt lat="53.65517" lon="-2.45108">
+    <name>Cadshaw</name>
+    <desc>This is waypoint no: 104</desc>
+    </wpt>
+  <wpt lat="53.64405" lon="-2.33259">
+    <name>Harcles Hill</name>
+    <desc>This is waypoint no: 105</desc>
+    </wpt>
+  <wpt lat="53.61712" lon="-2.45921">
+    <name>Wilton Quarries</name>
+    <desc>This is waypoint no: 106</desc>
+    </wpt>
+  <wpt lat="53.60719" lon="-2.48666">
+    <name>Brownstones Quarry</name>
+    <desc>This is waypoint no: 107</desc>
+    </wpt>
+  <wpt lat="53.64012000000001" lon="-2.57608">
+    <name>Anglezarke Quarry</name>
+    <desc>This is waypoint no: 108</desc>
+    </wpt>
+  <wpt lat="53.71359" lon="-2.54852">
+    <name>Stanworth Quarry</name>
+    <desc>This is waypoint no: 109</desc>
+    </wpt>
+  <wpt lat="53.60454" lon="-2.52262">
+    <name>Lower Montcliffe</name>
+    <desc>This is waypoint no: 110</desc>
+    </wpt>
+  <wpt lat="53.83917" lon="-2.58292">
+    <name>Craig y Longridge</name>
+    <desc>This is waypoint no: 111</desc>
+    </wpt>
+  <wpt lat="53.66653" lon="-2.57765">
+    <name>Stronstrey Bank</name>
+    <desc>This is waypoint no: 112</desc>
+    </wpt>
+  <wpt lat="53.70079" lon="-2.62114">
+    <name>Denham Quarry</name>
+    <desc>This is waypoint no: 113</desc>
+    </wpt>
+  <wpt lat="53.65733" lon="-2.58585">
+    <name>Healey Nab</name>
+    <desc>This is waypoint no: 114</desc>
+    </wpt>
+  <wpt lat="53.99509" lon="-2.62408">
+    <name>Thorn crag</name>
+    <desc>This is waypoint no: 115</desc>
+    </wpt>
+  <wpt lat="54.19963" lon="-2.65987">
+    <name>Hutton Roof Crags</name>
+    <desc>This is waypoint no: 116</desc>
+    </wpt>
+  <wpt lat="54.14457" lon="-2.77857">
+    <name>Warton pinnacle crag</name>
+    <desc>This is waypoint no: 117</desc>
+    </wpt>
+  <wpt lat="54.20399" lon="-2.72231">
+    <name>Farleton crags</name>
+    <desc>This is waypoint no: 118</desc>
+    </wpt>
+  <wpt lat="54.16076" lon="-2.82172">
+    <name>Woodwell o`ert Road</name>
+    <desc>This is waypoint no: 119</desc>
+    </wpt>
+  <wpt lat="54.2032" lon="-2.803">
+    <name>Fairy Steps</name>
+    <desc>This is waypoint no: 120</desc>
+    </wpt>
+  <wpt lat="54.1732" lon="-2.79609">
+    <name>Trowbarrow</name>
+    <desc>This is waypoint no: 121</desc>
+    </wpt>
+  <wpt lat="54.16256" lon="-2.823">
+    <name>Woodwell</name>
+    <desc>This is waypoint no: 122</desc>
+    </wpt>
+  <wpt lat="54.04683" lon="-2.90133">
+    <name>Heysham Head</name>
+    <desc>This is waypoint no: 123</desc>
+    </wpt>
+  <wpt lat="53.26985" lon="-2.75668">
+    <name>Harmers Wood</name>
+    <desc>This is waypoint no: 124</desc>
+    </wpt>
+  <wpt lat="53.41823" lon="-3.05998">
+    <name>The breck</name>
+    <desc>This is waypoint no: 125</desc>
+    </wpt>
+  <wpt lat="53.41314" lon="-3.05472">
+    <name>The breck</name>
+    <desc>This is waypoint no: 126</desc>
+    </wpt>
+  <wpt lat="53.27171" lon="-2.76124">
+    <name>Helsby</name>
+    <desc>This is waypoint no: 127</desc>
+    </wpt>
+  <wpt lat="53.27599" lon="-2.74318">
+    <name>Frodsham</name>
+    <desc>This is waypoint no: 128</desc>
+    </wpt>
+  <wpt lat="53.25278" lon="-2.73367">
+    <name>Manley Knoll</name>
+    <desc>This is waypoint no: 129</desc>
+    </wpt>
+  <wpt lat="53.3955" lon="-2.75248">
+    <name>Pex Hill</name>
+    <desc>This is waypoint no: 130</desc>
+    </wpt>
+  <wpt lat="53.44608" lon="-2.76226">
+    <name>Taylor Park</name>
+    <desc>This is waypoint no: 131</desc>
+    </wpt>
+  <wpt lat="53.18434" lon="-2.89335">
+    <name>Racecourse Walls</name>
+    <desc>This is waypoint no: 132</desc>
+    </wpt>
+  <wpt lat="55.00178" lon="-1.60329">
+    <name>Jesmond Dene</name>
+    <desc>This is waypoint no: 133</desc>
+    </wpt>
+  <wpt lat="55.44267000000001" lon="-1.71019">
+    <name>Heckley</name>
+    <desc>This is waypoint no: 134</desc>
+    </wpt>
+  <wpt lat="55.37161" lon="-1.8158900000000002">
+    <name>Widehope</name>
+    <desc>This is waypoint no: 135</desc>
+    </wpt>
+  <wpt lat="55.38603" lon="-1.7985799999999998">
+    <name>Corby`s Crags</name>
+    <desc>This is waypoint no: 136</desc>
+    </wpt>
+  <wpt lat="55.39232" lon="-1.78141">
+    <name>Oxen Wood</name>
+    <desc>This is waypoint no: 137</desc>
+    </wpt>
+  <wpt lat="55.366290000000006" lon="-1.8209">
+    <name>Edlingham</name>
+    <desc>This is waypoint no: 138</desc>
+    </wpt>
+  <wpt lat="55.36389" lon="-1.8235000000000001">
+    <name>Redheugh</name>
+    <desc>This is waypoint no: 139</desc>
+    </wpt>
+  <wpt lat="55.13478" lon="-1.8997">
+    <name>Shaftoe</name>
+    <desc>This is waypoint no: 140</desc>
+    </wpt>
+  <wpt lat="55.592830000000006" lon="-1.8987199999999997">
+    <name>Back Bowden Doors</name>
+    <desc>This is waypoint no: 141</desc>
+    </wpt>
+  <wpt lat="55.51632000000001" lon="-1.8911500000000003">
+    <name>Hepburn</name>
+    <desc>This is waypoint no: 142</desc>
+    </wpt>
+  <wpt lat="55.58225" lon="-1.88676">
+    <name>Raven`s Crag</name>
+    <desc>This is waypoint no: 143</desc>
+    </wpt>
+  <wpt lat="55.58228" lon="-1.88623">
+    <name>Bowden Doors</name>
+    <desc>This is waypoint no: 144</desc>
+    </wpt>
+  <wpt lat="55.36362" lon="-1.82365">
+    <name>Caller Crag</name>
+    <desc>This is waypoint no: 145</desc>
+    </wpt>
+  <wpt lat="55.28387" lon="-1.9231800000000001">
+    <name>Garleigh Crags</name>
+    <desc>This is waypoint no: 146</desc>
+    </wpt>
+  <wpt lat="55.28645" lon="-1.93103">
+    <name>Simonside Hills</name>
+    <desc>This is waypoint no: 147</desc>
+    </wpt>
+  <wpt lat="55.20081" lon="-1.93167">
+    <name>Rothley Crag</name>
+    <desc>This is waypoint no: 148</desc>
+    </wpt>
+  <wpt lat="55.31076" lon="-1.9353599999999997">
+    <name>Gimmerknowe</name>
+    <desc>This is waypoint no: 149</desc>
+    </wpt>
+  <wpt lat="55.15263" lon="-2.2403">
+    <name>Callerhues</name>
+    <desc>This is waypoint no: 150</desc>
+    </wpt>
+  <wpt lat="55.65798" lon="-2.10192">
+    <name>Berryhill</name>
+    <desc>This is waypoint no: 151</desc>
+    </wpt>
+  <wpt lat="55.62183" lon="-2.05936">
+    <name>Dovehole Crags</name>
+    <desc>This is waypoint no: 152</desc>
+    </wpt>
+  <wpt lat="55.623720000000006" lon="-2.02868">
+    <name>Goat Crag</name>
+    <desc>This is waypoint no: 153</desc>
+    </wpt>
+  <wpt lat="55.64441" lon="-1.94556">
+    <name>Kyloe in the Woods</name>
+    <desc>This is waypoint no: 154</desc>
+    </wpt>
+  <wpt lat="55.64816" lon="-1.9450000000000003">
+    <name>Kyloe out</name>
+    <desc>This is waypoint no: 155</desc>
+    </wpt>
+  <wpt lat="55.15051" lon="-2.33072">
+    <name>Howlerhirst</name>
+    <desc>This is waypoint no: 156</desc>
+    </wpt>
+  <wpt lat="55.02649" lon="-2.29789">
+    <name>Queens Crag</name>
+    <desc>This is waypoint no: 157</desc>
+    </wpt>
+  <wpt lat="53.2451" lon="-1.9284499999999998">
+    <name>Grinlow Hill</name>
+    <desc>This is waypoint no: 158</desc>
+    </wpt>
+  <wpt lat="52.98576" lon="-1.9086200000000002">
+    <name>Churnet</name>
+    <desc>This is waypoint no: 159</desc>
+    </wpt>
+  <wpt lat="53.16528" lon="-1.47848">
+    <name>Eastwood Rocks</name>
+    <desc>This is waypoint no: 160</desc>
+    </wpt>
+  <wpt lat="53.16301" lon="-1.63977">
+    <name>Andle Stone</name>
+    <desc>This is waypoint no: 161</desc>
+    </wpt>
+  <wpt lat="53.16722" lon="-2.13932">
+    <name>Bosley Cloud</name>
+    <desc>This is waypoint no: 162</desc>
+    </wpt>
+  <wpt lat="53.37944" lon="-1.53914">
+    <name>Bell Hagg</name>
+    <desc>This is waypoint no: 163</desc>
+    </wpt>
+  <wpt lat="53.46255" lon="-1.53756">
+    <name>Warncliffe</name>
+    <desc>This is waypoint no: 164</desc>
+    </wpt>
+  <wpt lat="53.24547" lon="-1.5824000000000003">
+    <name>Gardoms south and Moorside Rocks</name>
+    <desc>This is waypoint no: 165</desc>
+    </wpt>
+  <wpt lat="53.37823" lon="-1.58657">
+    <name>Rivelin</name>
+    <desc>This is waypoint no: 166</desc>
+    </wpt>
+  <wpt lat="53.26188" lon="-1.5834">
+    <name>Gardoms North</name>
+    <desc>This is waypoint no: 167</desc>
+    </wpt>
+  <wpt lat="53.26854" lon="-1.60869">
+    <name>Baslow</name>
+    <desc>This is waypoint no: 168</desc>
+    </wpt>
+  <wpt lat="53.31937" lon="-1.60007">
+    <name>Burbage South</name>
+    <desc>This is waypoint no: 169</desc>
+    </wpt>
+  <wpt lat="53.34334" lon="-1.60974">
+    <name>Burbage North and West</name>
+    <desc>This is waypoint no: 170</desc>
+    </wpt>
+  <wpt lat="53.31776" lon="-1.62195">
+    <name>Millstone area</name>
+    <desc>This is waypoint no: 171</desc>
+    </wpt>
+  <wpt lat="53.29432" lon="-1.61762">
+    <name>Froggatt</name>
+    <desc>This is waypoint no: 172</desc>
+    </wpt>
+  <wpt lat="53.35135" lon="-1.64711">
+    <name>Stanage Plantation</name>
+    <desc>This is waypoint no: 173</desc>
+    </wpt>
+  <wpt lat="53.26989" lon="-1.61434">
+    <name>Curbar</name>
+    <desc>This is waypoint no: 174</desc>
+    </wpt>
+  <wpt lat="53.15961000000001" lon="-1.62903">
+    <name>Stanton moor</name>
+    <desc>This is waypoint no: 175</desc>
+    </wpt>
+  <wpt lat="53.15606" lon="-1.64782">
+    <name>Eagle Ror and Rowtor</name>
+    <desc>This is waypoint no: 176</desc>
+    </wpt>
+  <wpt lat="53.35543" lon="-1.65884">
+    <name>Stanage Buckstone</name>
+    <desc>This is waypoint no: 177</desc>
+    </wpt>
+  <wpt lat="53.38566" lon="-1.66017">
+    <name>Stanage North</name>
+    <desc>This is waypoint no: 178</desc>
+    </wpt>
+  <wpt lat="53.27694" lon="-1.66139">
+    <name>Stoney middleton</name>
+    <desc>This is waypoint no: 179</desc>
+    </wpt>
+  <wpt lat="53.15739" lon="-1.66994">
+    <name>Cratcliffe and Robinhoods Stride</name>
+    <desc>This is waypoint no: 180</desc>
+    </wpt>
+  <wpt lat="53.25059000000001" lon="-1.74135">
+    <name>Rubicon</name>
+    <desc>This is waypoint no: 181</desc>
+    </wpt>
+  <wpt lat="53.25432000000001" lon="-1.74327">
+    <name>Crag X</name>
+    <desc>This is waypoint no: 182</desc>
+    </wpt>
+  <wpt lat="53.25448" lon="-1.7680700000000003">
+    <name>Raven tor</name>
+    <desc>This is waypoint no: 183</desc>
+    </wpt>
+  <wpt lat="52.9818" lon="-1.90368">
+    <name>Churnet Valley</name>
+    <desc>This is waypoint no: 184</desc>
+    </wpt>
+  <wpt lat="53.02988" lon="-1.93732">
+    <name>Oldridge Pinnacle</name>
+    <desc>This is waypoint no: 185</desc>
+    </wpt>
+  <wpt lat="53.06239" lon="-1.9705499999999998">
+    <name>Sharpcliffe Rocks</name>
+    <desc>This is waypoint no: 186</desc>
+    </wpt>
+  <wpt lat="53.18181" lon="-1.9716000000000002">
+    <name>Gib Tor</name>
+    <desc>This is waypoint no: 187</desc>
+    </wpt>
+  <wpt lat="53.20977" lon="-1.97196">
+    <name>Wolf Edge</name>
+    <desc>This is waypoint no: 188</desc>
+    </wpt>
+  <wpt lat="53.15587" lon="-1.9753199999999997">
+    <name>Ramshaw</name>
+    <desc>This is waypoint no: 189</desc>
+    </wpt>
+  <wpt lat="53.17044" lon="-1.97548">
+    <name>Newstones and Baldstones</name>
+    <desc>This is waypoint no: 190</desc>
+    </wpt>
+  <wpt lat="53.52892" lon="-1.98123">
+    <name>Wimberry</name>
+    <desc>This is waypoint no: 191</desc>
+    </wpt>
+  <wpt lat="53.18289" lon="-1.9889">
+    <name>Gradbach Hill</name>
+    <desc>This is waypoint no: 192</desc>
+    </wpt>
+  <wpt lat="53.15637" lon="-1.99648">
+    <name>The Roaches</name>
+    <desc>This is waypoint no: 193</desc>
+    </wpt>
+  <wpt lat="53.17765" lon="-2.00834">
+    <name>Skyline Area</name>
+    <desc>This is waypoint no: 194</desc>
+    </wpt>
+  <wpt lat="53.167930000000005" lon="-2.00834">
+    <name>N'th cloud</name>
+    <desc>This is waypoint no: 195</desc>
+    </wpt>
+  <wpt lat="53.46704" lon="-2.01637">
+    <name>Hobson Moor Quarry</name>
+    <desc>This is waypoint no: 196</desc>
+    </wpt>
+  <wpt lat="53.1706" lon="-2.14022">
+    <name>Bosley Cloud</name>
+    <desc>This is waypoint no: 197</desc>
+    </wpt>
+  <wpt lat="53.02038" lon="-2.33698">
+    <name>Heighley Castle Quarries</name>
+    <desc>This is waypoint no: 198</desc>
+    </wpt>
+  <wpt lat="57.01992" lon="-2.16246">
+    <name>Muchalls</name>
+    <desc>This is waypoint no: 199</desc>
+    </wpt>
+  <wpt lat="57.03036" lon="-2.14402">
+    <name>Boltsheugh</name>
+    <desc>This is waypoint no: 200</desc>
+    </wpt>
+  <wpt lat="57.04669" lon="-2.12318">
+    <name>Cammachmore</name>
+    <desc>This is waypoint no: 201</desc>
+    </wpt>
+  <wpt lat="57.04669" lon="-2.12318">
+    <name>Clashfarquhar</name>
+    <desc>This is waypoint no: 202</desc>
+    </wpt>
+  <wpt lat="57.05627" lon="-2.11357">
+    <name>Portlethen</name>
+    <desc>This is waypoint no: 203</desc>
+    </wpt>
+  <wpt lat="57.22142" lon="-2.6295">
+    <name>Luath Stones</name>
+    <desc>This is waypoint no: 204</desc>
+    </wpt>
+  <wpt lat="56.86399" lon="-3.1595">
+    <name>Glen Clova</name>
+    <desc>This is waypoint no: 205</desc>
+    </wpt>
+  <wpt lat="57.7029" lon="-3.45753">
+    <name>Cummingston</name>
+    <desc>This is waypoint no: 206</desc>
+    </wpt>
+  <wpt lat="56.6259" lon="-3.8865000000000003">
+    <name>Weem</name>
+    <desc>This is waypoint no: 207</desc>
+    </wpt>
+  <wpt lat="56.43268" lon="-4.063110000000001">
+    <name>Glen Lednock</name>
+    <desc>This is waypoint no: 208</desc>
+    </wpt>
+  <wpt lat="57.33737" lon="-4.21371">
+    <name>Brin Rock</name>
+    <desc>This is waypoint no: 209</desc>
+    </wpt>
+  <wpt lat="57.359140000000004" lon="-4.25035">
+    <name>Duntelchaig</name>
+    <desc>This is waypoint no: 210</desc>
+    </wpt>
+  <wpt lat="57.93425" lon="-5.19502">
+    <name>Ardmair Beach</name>
+    <desc>This is waypoint no: 211</desc>
+    </wpt>
+  <wpt lat="57.69747000000001" lon="-4.731240000000001">
+    <name>Inchbae</name>
+    <desc>This is waypoint no: 212</desc>
+    </wpt>
+  <wpt lat="57.322779999999995" lon="-4.26366">
+    <name>Ruthven Boulder</name>
+    <desc>This is waypoint no: 213</desc>
+    </wpt>
+  <wpt lat="57.924130000000005" lon="-5.21565">
+    <name>Rhue Blocks</name>
+    <desc>This is waypoint no: 214</desc>
+    </wpt>
+  <wpt lat="58.03327000000001" lon="-5.22291">
+    <name>Reiff in the Woods</name>
+    <desc>This is waypoint no: 215</desc>
+    </wpt>
+  <wpt lat="58.0718" lon="-5.45184">
+    <name>Reiff</name>
+    <desc>This is waypoint no: 216</desc>
+    </wpt>
+  <wpt lat="57.5428" lon="-5.50033">
+    <name>Torridon Boulders</name>
+    <desc>This is waypoint no: 217</desc>
+    </wpt>
+  <wpt lat="57.40589" lon="-5.64448">
+    <name>Kishorn Boulders</name>
+    <desc>This is waypoint no: 218</desc>
+    </wpt>
+  <wpt lat="56.96989000000001" lon="-5.743640000000001">
+    <name>Loch Morar Boulders</name>
+    <desc>This is waypoint no: 219</desc>
+    </wpt>
+  <wpt lat="57.54175000000001" lon="-6.14578">
+    <name>Carn Liath (Skye)</name>
+    <desc>This is waypoint no: 220</desc>
+    </wpt>
+  <wpt lat="57.20285" lon="-6.29058">
+    <name>Coire Lagan (Skye)</name>
+    <desc>This is waypoint no: 221</desc>
+    </wpt>
+  <wpt lat="56.86399" lon="-3.1595">
+    <name>Glen Clova</name>
+    <desc>This is waypoint no: 222</desc>
+    </wpt>
+  <wpt lat="55.943020000000004" lon="-3.17193">
+    <name>Salisbury Crags</name>
+    <desc>This is waypoint no: 223</desc>
+    </wpt>
+  <wpt lat="55.92316" lon="-3.18685">
+    <name>Agassiz Rock</name>
+    <desc>This is waypoint no: 224</desc>
+    </wpt>
+  <wpt lat="54.9021" lon="-3.65842">
+    <name>Criffel</name>
+    <desc>This is waypoint no: 225</desc>
+    </wpt>
+  <wpt lat="54.89236" lon="-3.57694">
+    <name>The Thirlstane</name>
+    <desc>This is waypoint no: 226</desc>
+    </wpt>
+  <wpt lat="54.89689" lon="-3.7071">
+    <name>Clifton</name>
+    <desc>This is waypoint no: 227</desc>
+    </wpt>
+  <wpt lat="54.87926" lon="-3.73051">
+    <name>Sandyhill's Bay</name>
+    <desc>This is waypoint no: 228</desc>
+    </wpt>
+  <wpt lat="56.15944" lon="-3.95029">
+    <name>Wolfcrag Quarry</name>
+    <desc>This is waypoint no: 229</desc>
+    </wpt>
+  <wpt lat="56.43268" lon="-4.063110000000001">
+    <name>Glen Lednock</name>
+    <desc>This is waypoint no: 230</desc>
+    </wpt>
+  <wpt lat="55.95725" lon="-4.27484">
+    <name>Craigmaddie</name>
+    <desc>This is waypoint no: 231</desc>
+    </wpt>
+  <wpt lat="56.25415" lon="-4.28395">
+    <name>Ben Ledi</name>
+    <desc>This is waypoint no: 232</desc>
+    </wpt>
+  <wpt lat="56.40358" lon="-4.30456">
+    <name>Glen Ogle</name>
+    <desc>This is waypoint no: 233</desc>
+    </wpt>
+  <wpt lat="55.98747000000001" lon="-4.35742">
+    <name>Craigmore</name>
+    <desc>This is waypoint no: 234</desc>
+    </wpt>
+  <wpt lat="56.226060000000004" lon="-4.41698">
+    <name>Loch Katrine</name>
+    <desc>This is waypoint no: 235</desc>
+    </wpt>
+  <wpt lat="55.93698" lon="-4.56099">
+    <name>Dumbarton Rock</name>
+    <desc>This is waypoint no: 236</desc>
+    </wpt>
+  <wpt lat="56.24303" lon="-4.68527">
+    <name>Loch Lomond Boulders</name>
+    <desc>This is waypoint no: 237</desc>
+    </wpt>
+  <wpt lat="54.81429" lon="-4.69147">
+    <name>Garheugh Point</name>
+    <desc>This is waypoint no: 238</desc>
+    </wpt>
+  <wpt lat="56.25196" lon="-4.70882">
+    <name>Loch Sloy</name>
+    <desc>This is waypoint no: 239</desc>
+    </wpt>
+  <wpt lat="56.19797" lon="-4.81021">
+    <name>Glen Croe</name>
+    <desc>This is waypoint no: 240</desc>
+    </wpt>
+  <wpt lat="56.20627" lon="-4.75091">
+    <name>Narnain Boulders</name>
+    <desc>This is waypoint no: 241</desc>
+    </wpt>
+  <wpt lat="56.19878" lon="-4.81019">
+    <name>Kennedy Boulder</name>
+    <desc>This is waypoint no: 242</desc>
+    </wpt>
+  <wpt lat="56.66746" lon="-4.98637">
+    <name>Lost Valley</name>
+    <desc>This is waypoint no: 243</desc>
+    </wpt>
+  <wpt lat="56.77102" lon="-5.0284">
+    <name>Glen Nevis</name>
+    <desc>This is waypoint no: 244</desc>
+    </wpt>
+  <wpt lat="55.6014" lon="-5.13543">
+    <name>The Mushroom (Arran)</name>
+    <desc>This is waypoint no: 245</desc>
+    </wpt>
+  <wpt lat="55.65313" lon="-5.14783">
+    <name>Corrie Boulders (Arran)</name>
+    <desc>This is waypoint no: 246</desc>
+    </wpt>
+  <wpt lat="54.89134" lon="-5.16093">
+    <name>Larbrax</name>
+    <desc>This is waypoint no: 247</desc>
+    </wpt>
+  <wpt lat="56.96989000000001" lon="-5.743640000000001">
+    <name>Loch Morar Boulders</name>
+    <desc>This is waypoint no: 248</desc>
+    </wpt>
+  <wpt lat="56.35618" lon="-5.87529">
+    <name>Loch Buie (Mull)</name>
+    <desc>This is waypoint no: 249</desc>
+    </wpt>
+  <wpt lat="52.81257" lon="-2.72189">
+    <name>Grinshill</name>
+    <desc>This is waypoint no: 250</desc>
+    </wpt>
+  <wpt lat="52.77317" lon="-2.91305">
+    <name>Nescliff</name>
+    <desc>This is waypoint no: 251</desc>
+    </wpt>
+  <wpt lat="52.81224" lon="-2.72248">
+    <name>Grinshill 1</name>
+    <desc>This is waypoint no: 252</desc>
+    </wpt>
+  <wpt lat="52.80964000000001" lon="-2.70611">
+    <name>Grinshill 2</name>
+    <desc>This is waypoint no: 253</desc>
+    </wpt>
+  <wpt lat="51.09826" lon="0.21975">
+    <name>Eridge Green Rocks</name>
+    <desc>This is waypoint no: 254</desc>
+    </wpt>
+  <wpt lat="51.12413" lon="0.22869">
+    <name>High Rocks Annexe</name>
+    <desc>This is waypoint no: 255</desc>
+    </wpt>
+  <wpt lat="51.13128" lon="0.23741">
+    <name>happy valley rocks</name>
+    <desc>This is waypoint no: 256</desc>
+    </wpt>
+  <wpt lat="51.13352" lon="0.23991999999999997">
+    <name>Toad Rock - Bulls Hollow</name>
+    <desc>This is waypoint no: 257</desc>
+    </wpt>
+  <wpt lat="51.1303" lon="0.23801999999999998">
+    <name>Happy Valley</name>
+    <desc>This is waypoint no: 258</desc>
+    </wpt>
+  <wpt lat="51.12073000000001" lon="0.22367">
+    <name>High Rocks</name>
+    <desc>This is waypoint no: 259</desc>
+    </wpt>
+  <wpt lat="51.10832" lon="0.19109">
+    <name>Harrison`s Rocks</name>
+    <desc>This is waypoint no: 260</desc>
+    </wpt>
+  <wpt lat="51.09949" lon="0.21616000000000002">
+    <name>Edridge Green</name>
+    <desc>This is waypoint no: 261</desc>
+    </wpt>
+  <wpt lat="51.07527" lon="0.20484">
+    <name>Bowles Rocks</name>
+    <desc>This is waypoint no: 262</desc>
+    </wpt>
+  <wpt lat="51.01525" lon="0.22562">
+    <name>Under Rocks</name>
+    <desc>This is waypoint no: 263</desc>
+    </wpt>
+  <wpt lat="51.09587" lon="-0.0264">
+    <name>Stone Farm Rocks</name>
+    <desc>This is waypoint no: 264</desc>
+    </wpt>
+  <wpt lat="53.11126000000001" lon="-3.06796">
+    <name>Hope Mountain</name>
+    <desc>This is waypoint no: 265</desc>
+    </wpt>
+  <wpt lat="53.0259" lon="-3.14653">
+    <name>Craig y Cythraul</name>
+    <desc>This is waypoint no: 266</desc>
+    </wpt>
+  <wpt lat="53.32413" lon="-3.7730600000000005">
+    <name>Angel Bay</name>
+    <desc>This is waypoint no: 267</desc>
+    </wpt>
+  <wpt lat="53.32029" lon="-3.7819999999999996">
+    <name>Manor Crag</name>
+    <desc>This is waypoint no: 268</desc>
+    </wpt>
+  <wpt lat="53.32034" lon="-3.7877400000000003">
+    <name>Bodafon</name>
+    <desc>This is waypoint no: 269</desc>
+    </wpt>
+  <wpt lat="53.33289" lon="-3.8317">
+    <name>Parisella`s Cave</name>
+    <desc>This is waypoint no: 270</desc>
+    </wpt>
+  <wpt lat="53.3331" lon="-3.8319700000000005">
+    <name>Split Infinity</name>
+    <desc>This is waypoint no: 271</desc>
+    </wpt>
+  <wpt lat="53.33727" lon="-3.83284">
+    <name>Pill Box Wall</name>
+    <desc>This is waypoint no: 272</desc>
+    </wpt>
+  <wpt lat="53.336940000000006" lon="-3.83837">
+    <name>Pigeon Cave</name>
+    <desc>This is waypoint no: 273</desc>
+    </wpt>
+  <wpt lat="52.97729" lon="-3.12278">
+    <name>Monuments</name>
+    <desc>This is waypoint no: 274</desc>
+    </wpt>
+  <wpt lat="52.97851" lon="-3.13278">
+    <name>Graffiti Walls</name>
+    <desc>This is waypoint no: 275</desc>
+    </wpt>
+  <wpt lat="52.98129000000001" lon="-3.14037">
+    <name>Trevor rocks</name>
+    <desc>This is waypoint no: 276</desc>
+    </wpt>
+  <wpt lat="53.10195" lon="-3.91771">
+    <name>Plas y Brenin Boulder</name>
+    <desc>This is waypoint no: 277</desc>
+    </wpt>
+  <wpt lat="53.09434" lon="-3.95227">
+    <name>RAC Boulders</name>
+    <desc>This is waypoint no: 278</desc>
+    </wpt>
+  <wpt lat="53.07831" lon="-4.01334">
+    <name>Cwm Dyli Boulders</name>
+    <desc>This is waypoint no: 279</desc>
+    </wpt>
+  <wpt lat="53.083580000000005" lon="-3.9995">
+    <name>Mallory Boulder</name>
+    <desc>This is waypoint no: 280</desc>
+    </wpt>
+  <wpt lat="53.05193" lon="-4.01398">
+    <name>Clogwyn y Bustach Boulders</name>
+    <desc>This is waypoint no: 281</desc>
+    </wpt>
+  <wpt lat="53.17625" lon="-4.03944">
+    <name>Caseg Boulders</name>
+    <desc>This is waypoint no: 282</desc>
+    </wpt>
+  <wpt lat="53.17524" lon="-4.05185">
+    <name>Braichmelyn Boulder</name>
+    <desc>This is waypoint no: 283</desc>
+    </wpt>
+  <wpt lat="52.98659" lon="-4.06987">
+    <name>Nantmor</name>
+    <desc>This is waypoint no: 284</desc>
+    </wpt>
+  <wpt lat="52.63282" lon="-4.11607">
+    <name>Cae Du</name>
+    <desc>This is waypoint no: 285</desc>
+    </wpt>
+  <wpt lat="52.81027" lon="-4.65434">
+    <name>Porth Ysgo</name>
+    <desc>This is waypoint no: 286</desc>
+    </wpt>
+  <wpt lat="52.91546" lon="-4.23775">
+    <name>Criccieth</name>
+    <desc>This is waypoint no: 287</desc>
+    </wpt>
+  <wpt lat="53.95378" lon="-1.68137">
+    <name>New Crag</name>
+    <desc>This is waypoint no: 288</desc>
+    </wpt>
+  <wpt lat="54.02787" lon="-1.75479">
+    <name>Calf Crag</name>
+    <desc>This is waypoint no: 289</desc>
+    </wpt>
+  <wpt lat="53.92226" lon="-1.85583">
+    <name>Swastika Stones and High Crag</name>
+    <desc>This is waypoint no: 290</desc>
+    </wpt>
+  <wpt lat="53.57914" lon="-1.87371">
+    <name>West Nab</name>
+    <desc>This is waypoint no: 291</desc>
+    </wpt>
+  <wpt lat="54.08172" lon="-1.71965">
+    <name>Whitehouses</name>
+    <desc>This is waypoint no: 292</desc>
+    </wpt>
+  <wpt lat="54.02516" lon="-2.04787">
+    <name>Rylstone</name>
+    <desc>This is waypoint no: 293</desc>
+    </wpt>
+  <wpt lat="53.61931" lon="-1.97482">
+    <name>Buckstones</name>
+    <desc>This is waypoint no: 294</desc>
+    </wpt>
+  <wpt lat="53.70791" lon="-1.87665">
+    <name>Woodhouse Scar</name>
+    <desc>This is waypoint no: 295</desc>
+    </wpt>
+  <wpt lat="53.69069" lon="-1.8592">
+    <name>West Vale</name>
+    <desc>This is waypoint no: 296</desc>
+    </wpt>
+  <wpt lat="54.22811" lon="-1.7765900000000001">
+    <name>Slipstones</name>
+    <desc>This is waypoint no: 297</desc>
+    </wpt>
+  <wpt lat="54.02911" lon="-1.90457">
+    <name>Simons Seat</name>
+    <desc>This is waypoint no: 298</desc>
+    </wpt>
+  <wpt lat="53.847730000000006" lon="-1.7716">
+    <name>Baildon Bank</name>
+    <desc>This is waypoint no: 299</desc>
+    </wpt>
+  <wpt lat="53.849" lon="-1.80287">
+    <name>Shipley Glen</name>
+    <desc>This is waypoint no: 300</desc>
+    </wpt>
+  <wpt lat="53.91659" lon="-1.7998300000000003">
+    <name>Ilkley</name>
+    <desc>This is waypoint no: 301</desc>
+    </wpt>
+  <wpt lat="53.87962" lon="-2.02348">
+    <name>Earl Crag</name>
+    <desc>This is waypoint no: 302</desc>
+    </wpt>
+  <wpt lat="53.79178" lon="-2.09741">
+    <name>Widdop and Gorple</name>
+    <desc>This is waypoint no: 303</desc>
+    </wpt>
+  <wpt lat="53.87171" lon="-1.42461">
+    <name>Hetchell</name>
+    <desc>This is waypoint no: 304</desc>
+    </wpt>
+  <wpt lat="53.98554" lon="-2.00381">
+    <name>Crookrise</name>
+    <desc>This is waypoint no: 305</desc>
+    </wpt>
+  <wpt lat="54.07637" lon="-1.68251">
+    <name>Brimham</name>
+    <desc>This is waypoint no: 306</desc>
+    </wpt>
+  <wpt lat="53.89660000000001" lon="-1.65008">
+    <name>Caley</name>
+    <desc>This is waypoint no: 307</desc>
+    </wpt>
+  <wpt lat="53.74255" lon="-2.10572">
+    <name>Bridestones</name>
+    <desc>This is waypoint no: 308</desc>
+    </wpt>
+  <wpt lat="53.93694" lon="-1.59731">
+    <name>Almscliff</name>
+    <desc>This is waypoint no: 309</desc>
+    </wpt>
+  <wpt lat="53.35135" lon="-1.64711">
+    <name>Plantation</name>
+    <desc>This is waypoint no: 310</desc>
+    </wpt>
+  <wpt lat="53.35567" lon="-1.65921">
+    <name>Buckstones</name>
+    <desc>This is waypoint no: 311</desc>
+    </wpt>
+  <wpt lat="54.5632" lon="-0.86833">
+    <name>Boulby (Western blocks #2)</name>
+    <desc>This is waypoint no: 312</desc>
+    </wpt>
+  <wpt lat="54.56298" lon="-0.8598100000000001">
+    <name>Boulby (Western blocks #1)</name>
+    <desc>This is waypoint no: 313</desc>
+    </wpt>
+  <wpt lat="54.56261" lon="-0.84294">
+    <name>Boulby (Eastern blocks #2)</name>
+    <desc>This is waypoint no: 314</desc>
+    </wpt>
+  <wpt lat="54.56161" lon="-0.82618">
+    <name>Boulby (Eastern blocks #1)</name>
+    <desc>This is waypoint no: 315</desc>
+    </wpt>
+  <wpt lat="54.39774" lon="-0.48409">
+    <name>Smuggler's Terrace</name>
+    <desc>This is waypoint no: 316</desc>
+    </wpt>
+  <wpt lat="54.40762" lon="-0.52166">
+    <name>Stoupe Brow</name>
+    <desc>This is waypoint no: 317</desc>
+    </wpt>
+  <wpt lat="54.342150000000004" lon="-0.43379">
+    <name>Cloughton Wyke</name>
+    <desc>This is waypoint no: 318</desc>
+    </wpt>
+  <wpt lat="54.43861" lon="-0.79271">
+    <name>Arncliffe Woods</name>
+    <desc>This is waypoint no: 319</desc>
+    </wpt>
+  <wpt lat="54.3964" lon="-0.85741">
+    <name>Glaisdale Head</name>
+    <desc>This is waypoint no: 320</desc>
+    </wpt>
+  <wpt lat="54.378930000000004" lon="-0.74741">
+    <name>Hunt House Crag</name>
+    <desc>This is waypoint no: 321</desc>
+    </wpt>
+  <wpt lat="54.31359" lon="-0.7405">
+    <name>Levisham</name>
+    <desc>This is waypoint no: 322</desc>
+    </wpt>
+  <wpt lat="54.3021" lon="-0.6524">
+    <name>The Bridestones</name>
+    <desc>This is waypoint no: 323</desc>
+    </wpt>
+  <wpt lat="54.43807" lon="-0.9442000000000002">
+    <name>Brown Hill Quarry</name>
+    <desc>This is waypoint no: 324</desc>
+    </wpt>
+  <wpt lat="54.44277" lon="-0.9520799999999999">
+    <name>Castleton Rigg</name>
+    <desc>This is waypoint no: 325</desc>
+    </wpt>
+  <wpt lat="54.45752" lon="-0.9503900000000001">
+    <name>Westerdale View</name>
+    <desc>This is waypoint no: 326</desc>
+    </wpt>
+  <wpt lat="54.42691" lon="-0.94918">
+    <name>Stormy Hall</name>
+    <desc>This is waypoint no: 327</desc>
+    </wpt>
+  <wpt lat="54.43996" lon="-0.90561">
+    <name>The Finklestones</name>
+    <desc>This is waypoint no: 328</desc>
+    </wpt>
+  <wpt lat="54.42236" lon="-0.9145699999999999">
+    <name>Camp Hill</name>
+    <desc>This is waypoint no: 329</desc>
+    </wpt>
+  <wpt lat="54.43006" lon="-0.90593">
+    <name>Clemitt's North</name>
+    <desc>This is waypoint no: 330</desc>
+    </wpt>
+  <wpt lat="54.42238" lon="-0.9145699999999999">
+    <name>Clemitt's</name>
+    <desc>This is waypoint no: 331</desc>
+    </wpt>
+  <wpt lat="54.38948" lon="-1.00233">
+    <name>Dale Head</name>
+    <desc>This is waypoint no: 332</desc>
+    </wpt>
+  <wpt lat="54.36258" lon="-0.86502">
+    <name>Northdale Boulders</name>
+    <desc>This is waypoint no: 333</desc>
+    </wpt>
+  <wpt lat="54.388290000000005" lon="-0.9554000000000001">
+    <name>Rosedale Head</name>
+    <desc>This is waypoint no: 334</desc>
+    </wpt>
+  <wpt lat="54.38146" lon="-0.9493599999999999">
+    <name>Middle Ridge Crag</name>
+    <desc>This is waypoint no: 335</desc>
+    </wpt>
+  <wpt lat="54.35566" lon="-0.94">
+    <name>The Meadow</name>
+    <desc>This is waypoint no: 336</desc>
+    </wpt>
+  <wpt lat="54.32571" lon="-0.9626299999999999">
+    <name>Petergate Quarry</name>
+    <desc>This is waypoint no: 337</desc>
+    </wpt>
+  <wpt lat="54.35803" lon="-1.12005">
+    <name>Apple Tree Rocks and Tarn Hole</name>
+    <desc>This is waypoint no: 338</desc>
+    </wpt>
+  <wpt lat="54.35566" lon="-0.94012">
+    <name>Oak Crag</name>
+    <desc>This is waypoint no: 339</desc>
+    </wpt>
+  <wpt lat="54.34399" lon="-0.93855">
+    <name>Duck Boulders</name>
+    <desc>This is waypoint no: 340</desc>
+    </wpt>
+  <wpt lat="54.27593" lon="-0.90753">
+    <name>Ravenswick Quarry</name>
+    <desc>This is waypoint no: 341</desc>
+    </wpt>
+  <wpt lat="54.50747" lon="-1.1208">
+    <name>Roseberry Topping</name>
+    <desc>This is waypoint no: 342</desc>
+    </wpt>
+  <wpt lat="54.49092000000001" lon="-1.08736">
+    <name>Captain Cook's</name>
+    <desc>This is waypoint no: 343</desc>
+    </wpt>
+  <wpt lat="54.46881" lon="-1.06708">
+    <name>NOS Boulder</name>
+    <desc>This is waypoint no: 344</desc>
+    </wpt>
+  <wpt lat="54.46885" lon="-1.06711">
+    <name>Park Nab</name>
+    <desc>This is waypoint no: 345</desc>
+    </wpt>
+  <wpt lat="54.446560000000005" lon="-1.08794">
+    <name>Ingleby Incline</name>
+    <desc>This is waypoint no: 346</desc>
+    </wpt>
+  <wpt lat="54.39372" lon="-1.20677">
+    <name>Scugdale</name>
+    <desc>This is waypoint no: 347</desc>
+    </wpt>
+  <wpt lat="54.42262" lon="-1.11873">
+    <name>Cold Moor</name>
+    <desc>This is waypoint no: 348</desc>
+    </wpt>
+  <wpt lat="54.42263" lon="-1.11874">
+    <name>Garfit Quarry</name>
+    <desc>This is waypoint no: 349</desc>
+    </wpt>
+  <wpt lat="54.42265" lon="-1.11873">
+    <name>Wainstones</name>
+    <desc>This is waypoint no: 350</desc>
+    </wpt>
+  <wpt lat="54.4227" lon="-1.11866">
+    <name>Earthworks Rocks</name>
+    <desc>This is waypoint no: 351</desc>
+    </wpt>
+  <wpt lat="54.39924" lon="-1.13032">
+    <name>Tranmire Rocks</name>
+    <desc>This is waypoint no: 352</desc>
+    </wpt>
+  <wpt lat="54.38683" lon="-1.14054">
+    <name>High Crag</name>
+    <desc>This is waypoint no: 353</desc>
+    </wpt>
+  <wpt lat="54.38825" lon="-0.95527">
+    <name>Round Crag</name>
+    <desc>This is waypoint no: 354</desc>
+    </wpt>
+  <wpt lat="54.34179" lon="-0.89298">
+    <name>Thorgill</name>
+    <desc>This is waypoint no: 355</desc>
+  </wpt>
+</gpx>
